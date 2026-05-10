@@ -1,0 +1,25 @@
+# ═══════════════════════════════════════════════════
+# PROJECT_MANAGER_MASTERPIECE — Requirements
+# ═══════════════════════════════════════════════════
+
+# ── Core GUI ──────────────────────────────────────
+gradio>=4.0.0
+
+# ── CLI & Terminal Styling ─────────────────────────
+rich>=13.0.0
+typer>=0.9.0
+
+# ── Git Integration ────────────────────────────────
+gitpython>=3.1.0
+
+# ── Standard Library (already included in Python) ─
+# os, sys, shutil, pathlib, subprocess
+# threading, queue, zipfile, json, re
+# datetime, platform, argparse
+
+# ── Optional: Streamlit alternative GUI ───────────
+# streamlit>=1.28.0
+
+# ── Optional: Enhanced terminal ───────────────────
+# click>=8.1.0
+# prompt-toolkit>=3.0.0
